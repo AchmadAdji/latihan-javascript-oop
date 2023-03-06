@@ -16,7 +16,7 @@
             this.name = name;
         }
 
-        Manager.prototype = Employee. prototype;
+        Manager.prototype = Employee.prototype;
 
         Manager.prototype.sayHello = function (name) {
             console.info(`Hello ${name}, my name is Manager ${this.name}`);
@@ -30,7 +30,7 @@
         employee.sayHello("joko")
 
         const manager = new Manager("Eko");
-        employee.sayHello("joko")
+        manager.sayHello("joko")
 
     </Script>
 </body>
