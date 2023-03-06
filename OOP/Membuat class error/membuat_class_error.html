@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Membuat class error</title>
+    <title>Error handling</title>
 </head>
 <body>
     <script>
@@ -16,25 +16,25 @@
             }
         }
 
-        class MathUtil {
+        class MahUtil {
 
             static sum(...numbers) {
 
                 if (numbers.length === 0) {
-                    throw new ValidationError("Total Parameter harus lebih dari 0", "numbers");
+                    throw new ValidationError("Total Parameter harus lebih dari 0");
                 }
 
-                let total = 0;
+                let result = 0;
                 for (const number of numbers) {
                     total += number
                 }
-                return total;
+                return result;
             }
 
         }
 
         try {
-            console.info(MathUtil.sum());
+            console.info(MahUtil.sum());
             console.info("Eko");
         } catch (error) {
             if(error instanceof ValidationError){
