@@ -5,7 +5,8 @@
 
 ### klik :
 
-| Name   Age |
+| Name   Age  |
+
 | ----- | --- |
 | Bob   | 27  |
 | Alice | 23  |
