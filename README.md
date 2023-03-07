@@ -12,7 +12,7 @@
 | 7.[Prototype inheritance](OOP/Prototype%20inheritance/) | 8.[Class](OOP/Class/) |
 | 9.[Construcor di class]() | 10.[Property di class]() |
 | 11.[Method di class]() | 12.[Class inheritance]() |
-
+<br>
 | 13.[Super constructor]() | 14.[Super method]() |
 | ----- | --- |
 | 15.[Getter dan setter di class]() | 16.[Public class field]() |
