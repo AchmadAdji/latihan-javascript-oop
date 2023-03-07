@@ -6,9 +6,6 @@
 ### klik :
 
 |1.[Membuat constructor function](OOP/Membuat%20constructor%20function/) | 2.[Property di constructor function](OOP/Property%20di%20constructor%20function/)   |
-|3.[Method di constructor function]()|4.   |
-|5.       |6.    |
-|7.     |8.    |
 
 ### 
 
