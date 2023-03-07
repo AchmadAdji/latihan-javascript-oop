@@ -5,7 +5,8 @@
 
 ### klik :
 
-| Name  | Age |
+| Tugas | OOP |
+| ----- | --- |
 | Bob   | 27  |
 | Alice | 23  |
 
