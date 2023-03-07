@@ -5,10 +5,11 @@
 
 ### klik :
 
-| Tugas | OOP |
-| ----- | --- |
-| Bob   | 27  |
-| Alice | 23  |
+| Header k-1 | Header k-2 | Header k-3 |
+| ----------- | :---------: | ----------: |
+| Isi 1 - 1 | Isi 2 - 1 | Isi 3 - 1 |
+| Isi 1 - 2 | Isi 2 - 2 | Isi 3 - 2 |
+| Isi 1 - 3 | Isi 2 - 3 | Isi 3 - 3 |
 
 ### [Membuat constructor function](OOP/Membuat%20constructor%20function/)
 
