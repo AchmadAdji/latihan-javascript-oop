@@ -21,7 +21,7 @@
 | 19.[Operator instanceof]() | 20.[Static field]() |
 | 21.[Static method]() | 22.[Error]() |
 | 23.[Error handling]() | 24.[Membuat class error]() |
-| 25.[Iterable dan iterator]() |  |
+| 25.[Iterable dan iterator]() |  
 
 ### 
 
