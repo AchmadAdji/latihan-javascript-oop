@@ -5,7 +5,16 @@
 
 ### klik :
 
-### ['[Membuat constructor function]](OOP/Membuat%20constructor%20function/)
+<style>
+.garis_verikal{
+border-left: 1px black solid;
+height: 170px;
+width: 0px;
+align: center;
+}
+</style>
+
+### [[Membuat constructor function]](OOP/Membuat%20constructor%20function/)
 
 ### [Property di constructor function](OOP/Property%20di%20constructor%20function/)
 
