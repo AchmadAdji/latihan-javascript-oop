@@ -14,6 +14,7 @@
 | 11.[Method di class]() | 12.[Class inheritance]() |
 
 | 13.[Super constructor]() | 14.[Super method]() |
+| ----- | --- |
 | 15.[Getter dan setter di class]() | 16.[Public class field]() |
 | 17.[Private class field]() | 18.[Private method]() |
 | 19.[Operator instanceof]() | 20.[Static field]() |
