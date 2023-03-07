@@ -9,6 +9,16 @@
 | ----- | --- |
 | 3.[Method di constructor function](OOP/Method%20di%20constructor%20function/) | 4.[Parameter di constructor function](OOP/Parameter%20di%20constructor%20function/) |
 | 5.[Constructor inheritance](OOP/Constructor%20inheritance/) | 6.[Prototype](OOP/Prototype/)  |
+| 7.[Prototype inheritance](OOP/Prototype%20inheritance/) | 8.[Class](OOP/Class/) |
+| 9.[Construcor di class]() | 10.[Property di class]() |
+| ----- | --- |
+| ----- | --- |
+| ----- | --- |
+| ----- | --- |
+| ----- | --- |
+| ----- | --- |
+| ----- | --- |
+| ----- | --- |
 
 ### 
 
@@ -22,13 +32,13 @@
 
 ### 
 
-### [Prototype inheritance](OOP/Prototype%20inheritance/)
+### 
 
-### [Class](OOP/Class/)
+### 
 
-### [Construcor di class]()
+### 
 
-### [Property di class]()
+### 
 
 ### [Method di class]()
 
