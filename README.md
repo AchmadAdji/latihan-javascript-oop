@@ -10,9 +10,13 @@
 border-left: 1px black solid;
 height: 170px;
 width: 0px;
-align: center;
 }
 </style>
+<title>Membuat Garis Vertikal Pada HTML</title>
+</head>
+<body>
+<div class="garis_verikal"></div>
+</body>
 
 ### [[Membuat constructor function]](OOP/Membuat%20constructor%20function/)
 
