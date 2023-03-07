@@ -5,7 +5,8 @@
 
 ### klik :
 
-| ### [[Membuat constructor function]](OOP/Membuat%20constructor%20function/)  | Age |
+| [[Membuat constructor function]](OOP/Membuat%20constructor%20function/)  |
+ [[Membuat constructor function]](OOP/Membuat%20constructor%20function/) |
 | ----- | --- |
 | Bob   | 27  |
 | Alice | 23  |
