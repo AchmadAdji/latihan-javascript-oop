@@ -5,6 +5,10 @@
 
 ### klik :
 
+| Name  | Age |
+| Bob   | 27  |
+| Alice | 23  |
+
 ### [Membuat constructor function](OOP/Membuat%20constructor%20function/)
 
 ### [Property di constructor function](OOP/Property%20di%20constructor%20function/)
