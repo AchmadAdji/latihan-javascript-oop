@@ -5,11 +5,10 @@
 
 ### klik :
 
-| [Membuat constructor function](OOP/Membuat%20constructor%20function/) | [Property di constructor function](OOP/Property%20di%20constructor%20function/) |
+| 1.[Membuat constructor function](OOP/Membuat%20constructor%20function/) | 2.[Property di constructor function](OOP/Property%20di%20constructor%20function/) |
 | ----- | --- |
-| [Method di constructor function](OOP/Method%20di%20constructor%20function/) | [Parameter di constructor function](OOP/Parameter%20di%20constructor%20function/) |
-| ----- | ---  |
-| [Constructor inheritance](OOP/Constructor%20inheritance/) | ---  |
+| 3.[Method di constructor function](OOP/Method%20di%20constructor%20function/) | 4.[Parameter di constructor function](OOP/Parameter%20di%20constructor%20function/) |
+| 5.[Constructor inheritance](OOP/Constructor%20inheritance/) | 6.[Prototype](OOP/Prototype/)  |
 
 ### 
 
@@ -21,7 +20,7 @@
 
 ### 
 
-### [Prototype](OOP/Prototype/)
+### 
 
 ### [Prototype inheritance](OOP/Prototype%20inheritance/)
 
