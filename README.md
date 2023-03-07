@@ -5,8 +5,7 @@
 
 ### klik :
 
-
-| Tugas OOP |
+| Name  | Age |
 | ----- | --- |
 | Bob   | 27  |
 | Alice | 23  |
