@@ -5,32 +5,21 @@
 
 ### klik :
 
-| [Membuat constructor function](OOP/Membuat%20constructor%20function/)  | [Property di constructor function](OOP/Property%20di%20constructor%20function/) |
-| [Method di constructor function]()  | --- |
-|  |   |
-| Alice | 23  |
-| Bob   | 27  |
-| Alice | 23  |
-| Bob   | 27  |
-| Alice | 23  |
-| Bob   | 27  |
-| Alice | 23  |
-| Bob   | 27  |
-| Alice | 23  |
-| Bob   | 27  |
-| Alice |  |
+### [Membuat constructor function](OOP/Membuat%20constructor%20function/)
 
-### [Method di constructor function]()
+### [Property di constructor function](OOP/Property%20di%20constructor%20function/)
 
-### [Parameter di constructor function]()
+### [Method di constructor function](OOP/Method%20di%20constructor%20function/)
 
-### [Constructor inheritance]()
+### [Parameter di constructor function](OOP/Parameter%20di%20constructor%20function/)
 
-### [Prototype]()
+### [Constructor inheritance](OOP/Constructor%20inheritance/)
 
-### [Prototype inheritance]()
+### [Prototype](OOP/Prototype/)
 
-### [Class]()
+### [Prototype inheritance](OOP/Prototype%20inheritance/)
+
+### [Class](OOP/Class/)
 
 ### [Construcor di class]()
 
